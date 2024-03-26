@@ -117,3 +117,9 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+# INPUT 
+![image](https://github.com/Gokkul-M/19AI405ExpNo4/assets/144870543/6c9fa185-ddce-4d31-9e49-2ebcb4253e97)
+# OUTPUT 
+![image](https://github.com/Gokkul-M/19AI405ExpNo4/assets/144870543/1c5c1a4f-1380-40ad-94a3-61098152ddbf)
+
