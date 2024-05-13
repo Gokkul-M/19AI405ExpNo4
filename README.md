@@ -57,34 +57,6 @@
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
-<h2>Sample Input</h2>
-<hr>
-10 14 <br>
-A B 6 <br>
-A F 3 <br>
-B D 2 <br>
-B C 3 <br>
-C D 1 <br>
-C E 5 <br>
-D E 8 <br>
-E I 5 <br>
-E J 5 <br>
-F G 1 <br>
-G I 3 <br>
-I J 3 <br>
-F H 7 <br>
-I H 2 <br>
-A 10 <br>
-B 8 <br>
-C 5 <br>
-D 7 <br>
-E 3 <br>
-F 6 <br>
-G 5 <br>
-H 3 <br>
-I 1 <br>
-J 0 <br>
-<hr>
 <h2>Program:</h2>
 <code>
     from collections import defaultdict
@@ -191,6 +163,34 @@ Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
 </code>
+<h2>Sample Input</h2>
+<hr>
+10 14 <br>
+A B 6 <br>
+A F 3 <br>
+B D 2 <br>
+B C 3 <br>
+C D 1 <br>
+C E 5 <br>
+D E 8 <br>
+E I 5 <br>
+E J 5 <br>
+F G 1 <br>
+G I 3 <br>
+I J 3 <br>
+F H 7 <br>
+I H 2 <br>
+A 10 <br>
+B 8 <br>
+C 5 <br>
+D 7 <br>
+E 3 <br>
+F 6 <br>
+G 5 <br>
+H 3 <br>
+I 1 <br>
+J 0 <br>
+<hr>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
